@@ -1,0 +1,3 @@
+O DDoS (Distributed Denial of Service) é um tipo de ataque que pode afetar sistemas de backend. Nele, os invasores sobrecarregam os servidores de backend com um volume massivo de tráfego malicioso, normalmente eles usam botnets. Isso faz com que os servidores fiquem indisponíveis para os usuários, interrompendo o funcionamento do serviço. Em negócios as empresas que dependem de serviços como a da Dyn por exemplo sofreram grandes interrupções, resultando em perda de receita e dano na reputação. Já no caso dos usuários muitas pessoas ficam sem acesso a serviços populares por muito tempo, podendo até durar varias horas.
+
+https://www.akamai.com/pt/glossary/what-is-ddos#:~:text=Em%20um%20ataque%20distribuído%20de,legítimo%20chegue%20ao%20seu%20destino.
